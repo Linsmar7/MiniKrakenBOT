@@ -8,7 +8,7 @@ client.on('ready', () => {
 });
 
 var prefix = '$';
-const comandos = [prefix + 'adj', prefix + 'nanahj', prefix + 'prefix', prefix + 'avatar']
+const comandos = [prefix + 'adj', prefix + 'prefix', prefix + 'avatar']
 
 client.on('message', msg => {
   if (msg.author.bot) return;
