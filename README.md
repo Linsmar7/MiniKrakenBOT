@@ -1,3 +1,3 @@
 # MiniKrakenBOT
-Discord BOT made with Python!
+Discord BOT made with Javascript!
 Some cool commands
